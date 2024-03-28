@@ -7,7 +7,7 @@ This website will simulate the functionalities of an online course management sy
 In addition, the website is integrated with a backend database MySQL database. The website fullfills the following requirements:  
 </p>
 
-<ul type='bullet'>
+<ul type='square'>
   <li>It is able to handle three types of users: a student, a teacher and an admin.</li>
   <li>2: Each user needs to be authenticated using username and password. One can directly create user like student or teacher account in this system with their
 corresponding user types (e.g. student, teacher ).</li>
